@@ -5,7 +5,7 @@ from nltk.tokenize import sent_tokenize
 
 nltk.download('punkt')
 
-NEWS_API_KEY = "218020ae6d2449188d06695408cc1e5c"
+NEWS_API_KEY = "PUT YOUR NEWSAPI KEY HERE"
 
 valid_topics = ["technology", "sports", "business", "health", "entertainment", "science"]
 
